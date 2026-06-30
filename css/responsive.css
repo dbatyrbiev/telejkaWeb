@@ -140,11 +140,11 @@
 
 /* Touch Optimizations */
 @media (hover: none) and (pointer: coarse) {
-    button,
+    .btn-primary,
+    .btn-secondary,
     .nav-item,
     .product-card,
     .menu-item {
-        padding: 12px;
         min-height: 44px;
     }
 
